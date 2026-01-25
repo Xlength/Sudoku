@@ -206,4 +206,8 @@ Hint 系统在策略执行后复用该能力判断是否已可确定填数。
 * **代码复用**：共享 `candidateManager`、`singleFinder` 与完整策略集合
 * **良好的扩展性**：新增策略后，Next Step 与 Hint 均可自动支持
 
+### 使用说明：
+使用说明：
+1.npm install --legacy-peer-deps
+2.npm run dev
 ---
