@@ -54,7 +54,7 @@ UI 层只需调用导入器提供的校验与转换接口，即可在不关心�
 
 其中作弊版的棋盘为
 
-![ ](./assets/images/1.png)
+![ ](./assets/images/11.png)
 
 对应的[SudokuWiki](https://www.sudokuwiki.org/Sudoku.htm)上的棋盘为
 
@@ -64,7 +64,7 @@ UI 层只需调用导入器提供的校验与转换接口，即可在不关心�
 
 求解版的棋盘为
 
-![ ](./assets/images/3.png)
+![ ](./assets/images/33.png)
 
 对应的[SudokuWiki](https://www.sudokuwiki.org/Sudoku.htm)上的棋盘为
 
